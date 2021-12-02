@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marine-potion-333804",
+  "private_key_id": "83ca1598513785f085f8db63aa01591a3f49654b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDxvWoS0BEaL3S/\nWrwYE+eYKsNbzaLKcA1OI9RG/XuL2D9TxVNpc6Xe3pYfNzHVFgRFLsD5chpHfMny\nKxuL39L3h3susnWIlknFh+hwCLW3Cai1QHD4TIudP5Ig52Lk7LjmSS+6sJl4iwHZ\noeLSTUjNHEQiB77EfzCXhwzxXzvKi/n6CS0HgjZAJG5bY4/yKqRvNVw9pyR9alHA\n+LzxQxyV8Qtp9exIAr0ZbUeVnVsgi5/lG5pBKtDWNNqE3fT6TdgNAzU7LNOG+N1X\nRoNMcIKInJ0tABpCPlKKtbuyL1L3ncHKT2VPZb+bYEnalDUA3XOwAQ1vl7vWShUm\nD0pvpQ7TAgMBAAECggEASWihNQxNHTwLAm7tzowA2LMntxGXnUzwpWl49YPVSC7H\ncEtsXIn7dVX3lYwfzFsOuemMPVO6ijnpY2pWx5+VA4j3TcNwsKUeyubOHXNvpyE+\nQ6hJhgVMolhjKi3J2MXQElJoNZOaT0I7MhkYdY91i5/JSuI6OpZ7LZCbzBKE6CkJ\nh3RtI1S5NLNezpGnbYvll8N7OSSjORBe8meU7VX9DoCEEAEfnXK+rtHxFXfKAKay\nZEs23XXNyKuCmzS+JSZ3tAdbqBFpsMJ1hrNAeeq8oszLE5PEp8Ike1diwCLjuNb2\ngXf8OxYEhmAXgX1qIIglB7li8iYlHyBIpxqx++X7qQKBgQD9cwdDV8LXtBHY4rAQ\n7XC+gZUXut0qe76zGqStFgV0KY+FmuMMJIg/ynrLN0seiMxWt55fcg5GIP+XU5XK\ntKO5JWUV7uT9YnU1mBm1pDvaVu9r3qTGj5uQUZr11Wx14ae9l/+LRJtrtex9WhUt\nnxMKTqGotvdhnZernJ9VjN2BGQKBgQD0LDfwDpc/gJ+L/EzYvoOJLMpjiskLtDMb\n+UvvOSAHT1w8KnpzII9vjn87PhFphnTQG6Ir1Xa8jBfO6vqr+YS6lWGn2zRVE3L5\naGA/gIGzjUpM/Vu0E3yO0JxgXSETnfTXZPR+XtytBXsHkcQq+BoUe+KUAaTe04ci\n59fqxIMwywKBgQDWepVW49m6+GNyCsO8T3LthHNLFZM79GQ45P8eilgrKVCPW7dv\n+yph8VNgzXYAbPufFtwrITX7GsmwocdNNvimIYMdwIB//OX7aK+5CzarWo5Z1pvS\nfIzE4IomJ2oVh9SPmSVkEbcEu3tZyPXLGabfPhOH1u4Z6WcEjxI3L3HzYQKBgQCA\n83VbRyljdRdNg6JF+V9YK5p7NYl1r+YqCN+saBvdIHFSqRBgCrsVrEjPTbk+ZK7+\nVQmxYpvBea79LSXTewQ40blwP5kEsS/QPepOvxxAagbqYAd1M7FdbxiW37gfNxVe\nR8fDkW+zxKgz2CykkMCdPsvrZG7g6w98RLrIFp4+PwKBgQD14dtljeDEgRAeHbzL\nVg0cyvi4JmY0w0pBY/zQB2PxQCq9tVdw/U7QhfetSwojR3zWTB3gy4p8eMfGv4d+\nnZcOtG7JBCa/9aAcKXvDIGtAPimMFZdi5IW1K2lyacRG4VH27VMpoRa/Q2DZIvHG\nUDwU7Fh+qcHVoj90j86wrcbdEA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ser1-496@marine-potion-333804.iam.gserviceaccount.com",
+  "client_id": "101084727084093149448",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ser1-496%40marine-potion-333804.iam.gserviceaccount.com"
+}
